@@ -5,11 +5,15 @@ A 2d javascript RPG-ish game with NPC mechanics and an interesting plot. You awa
 ##Contributors
 
 geroveni: George Venizelos
+
 joktronki: Danos Trontsios
+
 rafael859: Rafael Ketsetsides
 
 ##Special thanks
 
 dionyziz: Dionysis Zindros
+
 Christos Malliarakis
+
 Vaggelis Kipouridis
